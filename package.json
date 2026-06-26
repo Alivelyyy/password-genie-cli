@@ -1,0 +1,19 @@
+{
+  "name": "password-genie-cli",
+  "version": "2.0.0",
+  "description": "A simple and secure password generator that creates random, unique passwords based on user-defined length and complexity requirements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "security",
+    "crypto"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
