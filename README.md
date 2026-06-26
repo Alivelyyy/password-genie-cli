@@ -1,17 +1,17 @@
-# password-genie
+# password-genie-cli
 
 A simple and secure password generator that creates random, unique passwords based on user-defined length and complexity requirements.
 
 ## Install
 
 ```sh
-npm install password-genie
+npm install password-genie-cli
 ```
 
 ## Usage
 
 ```js
-const passwordGenie = require('password-genie');
+const passwordGenie = require('password-genie-cli');
 
 // Generate a password of length 12 with default complexity (lowercase only)
 const password = passwordGenie.generate(12);

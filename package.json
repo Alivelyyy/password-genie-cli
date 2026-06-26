@@ -13,6 +13,14 @@
     "crypto"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alivelyyy/password-genie-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alivelyyy/password-genie-cli/issues"
+  },
+  "homepage": "https://github.com/Alivelyyy/password-genie-cli#readme",
   "devDependencies": {
     "jest": "^29.0.0"
   }
